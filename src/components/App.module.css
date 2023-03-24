@@ -1,0 +1,11 @@
+.container_main {
+    width: 400px;
+    margin-top: 50px;
+    display: block;
+    border-radius: 10px;
+    border: solid black;
+    box-shadow: 1rem 1rem 2rem rgb(38 60 125 / 20%), -1rem -1rem 2rem rgb(38 60 125 / 20%);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

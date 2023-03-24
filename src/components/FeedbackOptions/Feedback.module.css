@@ -1,0 +1,17 @@
+.button {
+  font-size: 23px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  width: 100px;
+}
+
+.button__container {
+  text-align: center;
+}
+
+
