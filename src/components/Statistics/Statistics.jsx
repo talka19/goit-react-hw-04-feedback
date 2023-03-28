@@ -1,7 +1,7 @@
 import css from 'components/Statistics/Statistics.module.css';
 import PropTypes from 'prop-types';
 
-export const Statistics = ({good, neutral, bad, total, positivePercentage}) =>{
+export function Statistics ({good, neutral, bad, total, positivePercentage}) {
    return (
     <>
      <ul className={css.stat}>
